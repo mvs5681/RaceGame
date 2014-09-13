@@ -1,6 +1,6 @@
 RaceGame
 ========
-Race game writtern in java.
+Race game written in java.
 
 This project was developed by Mohanish Sheth and Ken Hwang.
 
